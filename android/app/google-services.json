@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719879719062",
+    "project_id": "firmay-51eb0",
+    "storage_bucket": "firmay-51eb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719879719062:android:8cc9a0366227a0831e5ab7",
+        "android_client_info": {
+          "package_name": "com.example.mayfirbaseeg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdcEiG9Ebe4UibtKyBx2N8U6prpPERn3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
